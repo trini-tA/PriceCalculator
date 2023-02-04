@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-direction: column;
+    max-width: 109%;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5rem;
+}
+
+input{ 
+    margin: 1em;
+    width: 70%;
+    font-size: 4rem;
+}
